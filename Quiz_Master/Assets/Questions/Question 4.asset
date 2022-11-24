@@ -12,5 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6ed9c409ed78e3243a5434d4a7468a20, type: 3}
   m_Name: Question 4
   m_EditorClassIdentifier: 
-  Question: Which one, from the following list of feats, is a feat that most DMs
-    ban due to it's unstable nature?
+  question: Which of the following list of feats is one that is banned in most games
+    due to its unbalanced nature?
+  answers:
+  - Alert
+  - Tough
+  - Skilled
+  - Lucky
+  correctAnswerIndex: 3

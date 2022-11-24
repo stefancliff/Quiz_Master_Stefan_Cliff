@@ -12,4 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6ed9c409ed78e3243a5434d4a7468a20, type: 3}
   m_Name: Question 2
   m_EditorClassIdentifier: 
-  Question: When the DM calls for a roll with Advantage, what does that mean?
+  question: Which is the most used die in D&D 5e?
+  answers:
+  - d6
+  - d100
+  - d20
+  - d8
+  correctAnswerIndex: 2
